@@ -1,7 +1,7 @@
 ### What is Q-DPP
 > Q-DPP is a novel function approximator for cooperative multi-agent reinforcement learning problems based on determinantal point process (DPP). Q-DPP promotes agents to acquire diverse behavioral models; this allows a natural factorization for the joint Q-functions with no need for a priori structural constraints (e.g. the monotonicity constraint in QMIX), requirements  often posed by centralized-training-decentralized-exeuction methods. A bonus of Q-DPP is that it offers an unified view of current major solvers including VDN, QMIX, and QTRAN.
 
-
+https://github.com/koulanurag/ma-gym
 
 ### How to run Q-DPP
 
