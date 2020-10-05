@@ -3,6 +3,10 @@
 
 https://github.com/koulanurag/ma-gym
 
+
+Multi-Agent Determinantal Q-Learning
+https://arxiv.org/abs/2006.01482
+
 ### How to run Q-DPP
 
 - Setup the environment:
